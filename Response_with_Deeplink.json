@@ -1,0 +1,33 @@
+{
+   "message_survival_seconds": -1,
+   "silent": false,
+   "custom_type": "",
+   "data": "{\"note\":\"Auto CUSTOMER note\",\"sender_desc\":\"Auto CUSTOMER note\",\"amount\":\"999.75\",\"sender_quick_reply\":\"Done 👍🏻,Thanks 🙏🏼\",\"receiver_quick_reply\":\"Got it 🙏,Thank you 🙏🏼\",\"paymentMode\":\"UPI\",\"sender_preview_text\":\"You paid ₹4000\",\"uniqueKey\":\"Hello-PTMAutoTest_2021_07_22_Xm1KId0k\",\"send_push\":true,\"deeplinkUrl\":\"paytmmp://upi_passbook?featuretype=transactiondetail&txnId=PTMAutoTest_2021_07_22_Xm1KId0k\",\"message\":\"Auto CUSTOMER note\",\"msgStatus\":\"SUCCESS\",\"rrn\":\"03140100071sq0\",\"displayAmount\":\"999.75\",\"localised_quick_replies\":\"{\\\"receiver\\\":{\\\"user_receiver_quick_reply_gotit\\\":\\\"Got it\\\",\\\"user_receiver_quick_reply_thankyou\\\":\\\"Thank you 🙏🏼\\\"},\\\"sender\\\":{\\\"user_sender_quick_reply_enjoy\\\":\\\"Thanks 🙏🏼\\\",\\\"user_sender_quick_reply_done\\\":\\\"Done 👍🏻\\\"}}\",\"isNeftOutward\":false,\"receiver_preview_text\":\"You received ₹999.75\",\"receiver_desc\":\"Auto CUSTOMER note\",\"messageTimestamp\":1626940117616,\"txnDate\":\"2021-07-22 13:18:37\",\"status\":\"0\",\"txnId\":\"Hello-PTMAutoTest_2021_07_22_Xm1KId0k\"}",
+   "created_at": 1627019441613,
+   "mentioned_users": [],
+   "translations": {},
+   "updated_at": 0,
+   "channel_type": "group",
+   "is_op_msg": false,
+   "is_removed": false,
+   "user": {
+       "require_auth_for_profile_image": false,
+       "is_active": true,
+       "role": "",
+       "user_id": "1404389536333746177",
+       "nickname": "982XXXX846",
+       "profile_url": "",
+       "metadata": {
+           "info_3": "{\"rs\":1}",
+           "info_2": "{}",
+           "info_1": "{\"t\":1}"
+       }
+   },
+   "file": {},
+   "mention_type": "users",
+   "message": "test for 4000",
+   "channel_url": "e6044ce4cb794eaeb2b253504f512ee0_0066da93d410599a46633dcce9f07773e451cc4156610f6ea08f45055eddc1c4",
+   "type": "MESG",
+   "message_id": 12032657393,
+   "message_retention_hour": -1
+}
