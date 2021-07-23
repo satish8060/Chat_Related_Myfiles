@@ -1,0 +1,33 @@
+{
+    "message_survival_seconds": -1,
+    "silent": false,
+    "custom_type": "",
+    "data": "{\"note\": \"Auto CUSTOMER note\",\n  \"sender_desc\": \"Auto CUSTOMER note\",\n  \"amount\": \"999.75\",\n  \"sender_quick_reply\": \"Done 👍🏻,Thanks 🙏🏼\",\n  \"receiver_quick_reply\": \"Got it 🙏,Thank you 🙏🏼\",\n  \"paymentMode\": \"UPI\",\n  \"sender_preview_text\": \"You paid ₹5000\",\n  \"uniqueKey\": \"Hello-PTMAutoTest_2021_07_22_Xm1KId0k\",\n  \"send_push\": true,\n  \"deeplinkUrl\":\"\",\n  \"message\": \"Auto CUSTOMER note\",\n  \"msgStatus\": \"SUCCESS\",\n  \"rrn\": \"03140100071sq0\",\n  \"displayAmount\": \"999.75\",\n  \"localised_quick_replies\": \"{\\\"receiver\\\":{\\\"user_receiver_quick_reply_gotit\\\":\\\"Got it\\\",\\\"user_receiver_quick_reply_thankyou\\\":\\\"Thank you 🙏🏼\\\"},\\\"sender\\\":{\\\"user_sender_quick_reply_enjoy\\\":\\\"Thanks 🙏🏼\\\",\\\"user_sender_quick_reply_done\\\":\\\"Done 👍🏻\\\"}}\",\n  \"isNeftOutward\": false,\n  \"receiver_preview_text\": \"You received ₹999.75\",\n  \"receiver_desc\": \"Auto CUSTOMER note\",\n  \"messageTimestamp\": 1626940117616,\n  \"txnDate\": \"2021-07-22 13:18:37\",\n  \"status\": \"0\",\n  \"txnId\": \"Hello-PTMAutoTest_2021_07_22_Xm1KId0k\"}",
+    "created_at": 1627035903678,
+    "mentioned_users": [],
+    "translations": {},
+    "updated_at": 0,
+    "channel_type": "group",
+    "is_op_msg": false,
+    "is_removed": false,
+    "user": {
+        "require_auth_for_profile_image": false,
+        "is_active": true,
+        "role": "",
+        "user_id": "1404389536333746177",
+        "nickname": "982XXXX846",
+        "profile_url": "",
+        "metadata": {
+            "info_3": "{\"rs\":1}",
+            "info_2": "{}",
+            "info_1": "{\"t\":1}"
+        }
+    },
+    "file": {},
+    "mention_type": "users",
+    "message": "msg by Sk on 23 july using curl",
+    "channel_url": "0cdd783098cb4c4684aaa134b7de79e7_b6f53542ef94fce20a8bddb231876947f7c18be4983e79d4b11873eb7c1520d3",
+    "type": "MESG",
+    "message_id": 12056507390,
+    "message_retention_hour": -1
+}
